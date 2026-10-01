@@ -1,0 +1,26 @@
+[
+  {
+    "slug": "khnue-cyber-cup",
+    "title": "KHNUE Cyber Cup",
+    "date": "2026",
+    "kind": "hosted",
+    "place": "Cyberion, просп. Науки, 7",
+    "description": "Опис події — заміни на свій."
+  },
+  {
+    "slug": "student-league",
+    "title": "Міжвузівський турнір",
+    "date": "2026",
+    "kind": "participated",
+    "place": "Харків",
+    "description": "Опис події — заміни на свій."
+  },
+  {
+    "slug": "open-day",
+    "title": "Шоу-матч",
+    "date": "2026",
+    "kind": "hosted",
+    "place": "ХНЕУ, головний корпус",
+    "description": ""
+  }
+]

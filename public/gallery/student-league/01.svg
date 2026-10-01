@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1000">
+  <defs>
+    <radialGradient id="g" cx="350" cy="426" r="403" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#221a3d"/><stop offset="1" stop-color="#07060b"/>
+    </radialGradient>
+    <pattern id="p" width="64" height="64" patternUnits="userSpaceOnUse"><path d="M64 0H0v64" fill="none" stroke="#ddd0ff" stroke-opacity="0.08"/></pattern>
+  </defs>
+  <rect width="1600" height="1000" fill="url(#g)"/>
+  <rect width="1600" height="1000" fill="url(#p)"/>
+  <circle cx="350" cy="426" r="134" fill="none" stroke="#ddd0ff" stroke-opacity="0.35" stroke-width="2" stroke-dasharray="6 14"/>
+  <g stroke="#ddd0ff" stroke-opacity="0.8" stroke-width="4" stroke-linecap="round">
+    <line x1="350" y1="356" x2="350" y2="396"/><line x1="350" y1="456" x2="350" y2="496"/>
+    <line x1="280" y1="426" x2="320" y2="426"/><line x1="380" y1="426" x2="420" y2="426"/>
+  </g>
+  <text x="64" y="930" font-family="monospace" font-size="34" letter-spacing="8" fill="#ddd0ff" fill-opacity="0.7">ФОТО 01 · ЗАМІНИ НА СВОЄ</text>
+</svg>

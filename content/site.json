@@ -1,0 +1,101 @@
+{
+  "name": "KHNUE Cyber",
+  "title": [
+    "KHNUE",
+    "CYBER CUP"
+  ],
+  "tagline": "Студентські кібертурніри ХНЕУ ім. С. Кузнеця",
+  "description": "Кіберспортивна система молодіжної організації ХНЕУ: онлайн-відбір для всіх студентів університету та LAN-фінал у кіберклубі Cyberion.",
+  "url": "https://khnue-cyber.vercel.app",
+  "heroImage": "",
+  "tournament": {
+    "discipline": "Counter-Strike 2",
+    "disciplineShort": "CS2",
+    "format": "5×5",
+    "teamSize": 5,
+    "substitutes": 1,
+    "dateLabel": "Дата уточнюється",
+    "stages": "Онлайн-відбір + LAN-фінал"
+  },
+  "registration": {
+    "status": "open",
+    "note": "Турнір тимчасово перенесено — реєстрація працює, дату оголосимо в Telegram."
+  },
+  "about": {
+    "lead": "Кібертурніри ХНЕУ — це регулярні студентські змагання, які проводить молодіжна організація університету разом зі спонсором Cyberion.",
+    "body": "Реєструйся сам або цілою командою. Відбіркові матчі проходять онлайн, тож грати можуть навіть ті, хто зараз не в Харкові. Найсильніші виходять у LAN-фінал — на справжні турнірні ПК у кіберклубі.",
+    "steps": [
+      {
+        "title": "Реєстрація",
+        "text": "Соло або командою 5 + 1. Заповнюєш форму, ми підтверджуємо заявку в Telegram."
+      },
+      {
+        "title": "Онлайн-відбір",
+        "text": "Групи або сітка BO1. Грають усі, незалежно від міста."
+      },
+      {
+        "title": "Плей-офф",
+        "text": "Матчі BO3 з вето карт. Найкращі команди проходять далі."
+      },
+      {
+        "title": "LAN-фінал",
+        "text": "Офлайн у Cyberion: турнірні ПК, глядачі та нагородження."
+      }
+    ],
+    "stats": [
+      {
+        "value": "5+1",
+        "label": "гравців у команді"
+      },
+      {
+        "value": "4",
+        "label": "інститути ХНЕУ"
+      },
+      {
+        "value": "LAN",
+        "label": "фінал офлайн"
+      }
+    ]
+  },
+  "location": {
+    "venue": "Cyberion",
+    "kind": "Кіберклуб · офлайн-частина турніру",
+    "address": "просп. Науки, 7, Харків",
+    "hint": "Поруч з головним корпусом ХНЕУ та станцією метро «Наукова».",
+    "mapsQuery": "Cyberion, проспект Науки 7, Харків",
+    "mapsLink": "https://maps.app.goo.gl/ZTftx5SwEbzNP8KK9",
+    "features": [
+      "23 ігрових ПК",
+      "RTX 5070",
+      "Монітори 310 Гц"
+    ]
+  },
+  "partners": [
+    {
+      "name": "ХНЕУ ім. С. Кузнеця",
+      "role": "Університет",
+      "logo": "/logos/hneu.svg",
+      "href": "https://www.hneu.edu.ua/",
+      "highlight": false
+    },
+    {
+      "name": "Молодіжна організація ХНЕУ",
+      "role": "Організатор",
+      "logo": "/logos/youth.svg",
+      "href": "",
+      "highlight": false
+    },
+    {
+      "name": "Cyberion",
+      "role": "Спонсор",
+      "logo": "/logos/cyberion.svg",
+      "href": "https://www.cyberion.ua/",
+      "highlight": true
+    }
+  ],
+  "contacts": {
+    "telegram": "https://t.me/",
+    "telegramLabel": "Telegram-канал",
+    "instagram": ""
+  }
+}

@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1000">
+  <defs>
+    <radialGradient id="g" cx="945" cy="796" r="411" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#1d1433"/><stop offset="1" stop-color="#07060b"/>
+    </radialGradient>
+    <pattern id="p" width="64" height="64" patternUnits="userSpaceOnUse"><path d="M64 0H0v64" fill="none" stroke="#c6b1ff" stroke-opacity="0.08"/></pattern>
+  </defs>
+  <rect width="1600" height="1000" fill="url(#g)"/>
+  <rect width="1600" height="1000" fill="url(#p)"/>
+  <circle cx="945" cy="796" r="137" fill="none" stroke="#c6b1ff" stroke-opacity="0.35" stroke-width="2" stroke-dasharray="6 14"/>
+  <g stroke="#c6b1ff" stroke-opacity="0.8" stroke-width="4" stroke-linecap="round">
+    <line x1="945" y1="726" x2="945" y2="766"/><line x1="945" y1="826" x2="945" y2="866"/>
+    <line x1="875" y1="796" x2="915" y2="796"/><line x1="975" y1="796" x2="1015" y2="796"/>
+  </g>
+  <text x="64" y="930" font-family="monospace" font-size="34" letter-spacing="8" fill="#c6b1ff" fill-opacity="0.7">ФОТО 07 · ЗАМІНИ НА СВОЄ</text>
+</svg>
