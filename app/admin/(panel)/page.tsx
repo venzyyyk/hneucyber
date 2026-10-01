@@ -8,8 +8,8 @@ export default async function AdminRegistrationsPage() {
       <>
         <PageTitle title="Заявки" />
         <Notice tone="warn">
-          Заявки читаються з Google Sheets. Задай <code className="font-mono">SHEETS_WEBHOOK_URL</code> і{" "}
-          <code className="font-mono">SHEETS_WEBHOOK_SECRET</code> та задеплой свіжий <code className="font-mono">Code.gs</code> (інструкція в README).
+             <code className="font-mono">SHEETS_WEBHOOK_URL</code> і{" "}
+        
         </Notice>
       </>
     );
